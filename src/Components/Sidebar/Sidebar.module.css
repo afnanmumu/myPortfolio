@@ -1,0 +1,40 @@
+@import "../../vars.css";
+.sidebar {
+  position: fixed;
+  top: 130px;
+  left: 90px;
+  display: flex;
+  align-items: first baseline;
+  width: auto;
+  height: auto;
+  background-color: aliceblue;
+  padding: 2% 0.5%;
+  border-radius: 50px;
+  background: var(--color-sidebar);
+}
+.navbar {
+  display: flex;
+}
+.menu {
+  display: flex;
+}
+.menuItems {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  list-style: none;
+}
+.menuItems li a {
+  display: block;
+  border-radius: 50px;
+  background-color: var(--color-background);
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  width: 50px;
+  height: 50px;
+}
+.menuItems li a img {
+  width: 30px;
+  height: 30px;
+}

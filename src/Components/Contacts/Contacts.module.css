@@ -1,0 +1,39 @@
+@import "../../vars.css";
+.container {
+  position: relative;
+  margin-left: 15%;
+  margin-right: 8%;
+  margin-top: 20px;
+  margin-bottom: 200px;
+  padding: 1%;
+}
+.contactDetails {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+.contactTitle {
+  font-size: 28px;
+  color: var(--color-text2);
+  margin-bottom: 90px;
+}
+.contactList {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  padding: 2%;
+  width: 100%;
+  justify-content: space-between;
+}
+.contactList img {
+  width: 90px;
+  height: 90px;
+}
+.contactList li {
+  font-size: 24px;
+  color: var(--color-text2);
+}
+.contactList a {
+  color: var(--color-text2);
+}

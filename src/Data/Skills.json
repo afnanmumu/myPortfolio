@@ -1,0 +1,17 @@
+[
+    {
+        "name" : "Languages",
+        "imgSrc" : "Skills/Languages.svg",
+        "works" : "Python, C++, Java, C, JavaScript, Bash, MySQL, Oracle PL/SQL, Assembly, HTML, CSS, JSON, YAML, MATLAB, Reactjs, Nodejs, Mongodb, Flutter, Django ."
+    },
+    {
+        "name" : "Coding Methodologies",
+        "imgSrc" : "Skills/CodingMetho.svg",
+        "works" : "MVVM Architecture, Agile, Clean Code, Useful Comments, Ability to adhere to ISO and other standards ."
+    },
+    {
+        "name" : "Development",
+        "imgSrc" : "Skills/Development.svg",
+        "works" : "Linux, Windows, Virtual Machines, Docker, React, Bootstrap, MariaDB, JSON, Anaconda, Numpy, MatPlotLib, Pandas, GPT, Generative AI Tools ."
+    }
+]

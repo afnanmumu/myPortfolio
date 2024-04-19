@@ -1,0 +1,30 @@
+[
+    {
+        "role" : "Academic Internship",
+        "company" : "Banglafire Solution Ltd",
+        "imgSrc" : "Experience/Internship.svg",
+        "duration" : "Feb 2022 – Mar 2022",
+        "experiences" : [
+            "Worked on flutter and made a clone of google classroom for children assistant."
+        ]
+    },
+    {
+        "role" : "Intern",
+        "company" : "Red.Digital Limited",
+        "imgSrc" : "Experience/Intern.svg",
+        "duration" : "Feb 2022 – Mar 2022",
+        "experiences" : [
+            "Created a Password validation package by Laravel.",
+            "CV , Invoice filtering and sorting in order to reduce time and automate the system."
+        ]
+    },
+    {
+        "role" : "Assistant Software Engineer",
+        "company" : "IDLC Finance Limited", 
+        "imgSrc" : "Experience/SoftwareEngineer.svg",
+        "duration" : "November 2023 - Present",
+        "experiences" : [
+            "Working on a customer care app using flutter , API and reactjs ."
+        ]
+    }
+]

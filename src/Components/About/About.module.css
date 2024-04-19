@@ -1,0 +1,116 @@
+@import "../../vars.css";
+
+.container {
+  position:relative;
+  margin-left: 15%;
+  margin-right: 8%;
+  margin-top: 150px;
+  margin-bottom: 100px;
+  padding: 1%;    
+}
+.aboutHeading {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 30px;
+}
+.aboutDetails {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+}
+.aboutDetailsItems {
+  padding: 10px 25px;
+}
+.detailsLogo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 100px;
+}
+.aboutDetailsItemsButton {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 30px;
+  padding: 0 130px;
+}
+.detailsContent {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.logos {
+  width: 70px;
+  height: 70px;
+}
+.button {
+  padding: 20px 30px;
+  border-radius: 35px;
+  color: var(--color-text1);
+  background-color: var(--color-button1);
+  border: 1px solid var(--color-button1-border);
+  color: var(--color-text1);
+  font-size: 20px;
+}
+.heading1 {
+  color: var(--color-text1);
+  font-size: 38px;
+}
+.heading2 {
+  color: var(--color-text1);
+  font-size: 30px;
+}
+.paragraph1 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: var(--color-text2);
+  font-size: 24px;
+}
+.aboutImage {
+  width: 35%;
+  height: 40vh;
+}
+.aboutCard {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-top: 20px;
+  border-radius: 30px;
+  padding: 5%;
+  background-color: var(--color-card1);
+  border: 3px solid var(--color-card1-border);
+}
+.title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 30px;
+  color: var(--color-text1);
+}
+.cardItems {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.card2 {
+  padding: 4% 4%;
+  background: var(--color-card2);
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.card2Heading {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 15px;
+  font-size: 26px;
+  color: var(--color-text3);
+}
+.card2Body {
+  font-size: 20px;
+  color: var(--color-text3);
+}

@@ -1,0 +1,24 @@
+:root {
+  --color-background: #eadbc8;
+  --color-sidebar: #B2A59B;
+  --color-text1: #503c3c;
+  --color-text2: #704f4f;
+  --color-text3: #F1F2F6;
+  --color-text4: #472D2D;
+  --color-button1: #d7c0ae;
+  --color-button1-border: #553939;
+  --color-button2: #704F4F;
+  --color-button3: #815B5B99;
+  --color-button3-border: #815B5B;
+  --color-navbar: #b2a59b;
+  --color-card1: #d7c0ae80;
+  --color-card1-border: #967e76cc;
+  --color-card2: linear-gradient(#594545, #9e7676);
+  --color-card4: #9e767699;
+  --color-card4-border: #704F4F;
+  --color-card5: #D7CEC4;
+  --color-card6: #B9A19399;
+  --color-card6-border: #815B5B;
+  --font-poppins: "poppins";
+  --font-ingrid-darling: "Ingrid Darling", cursive;
+}

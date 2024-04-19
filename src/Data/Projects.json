@@ -1,0 +1,32 @@
+[
+    {
+        "name" : "Blood Bank Management System",
+        "type" : "Web Development",
+        "tag" : [
+            "Oracle",
+            "HTML",
+            "CSS",
+            "PHP",
+            "JS"
+        ],
+        "link" : ""
+    },
+    {
+        "name" : "EYE BLINK detection and NID extraction APP",
+        "type" : "App Development",
+        "tag" : [
+            "Flutter",
+            "Rest API"
+        ],
+        "link" : ""
+    },
+    {
+        "name" : "TODO APP",
+        "type" : "App Development",
+        "tag" : [
+            "Flutter",
+            "Rest API"
+        ],
+        "link" : ""
+    }
+]
